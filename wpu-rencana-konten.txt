@@ -4,6 +4,7 @@ rencana konten wpu
   = ES6
   = frameworks javascript
     + vue
+    + react
 - struktur data dasar
 - PHP frameworks
   + laravel
