@@ -3,6 +3,7 @@ rencana konten wpu
 - javasript
   = ES6
   = frameworks javascript
+- struktur data dasar
 - PHP frameworks
 - interview
 - vlogs
